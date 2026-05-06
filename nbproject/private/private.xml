@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/sem5/Project/StudentVoting/src/com/app/voting/service/ElectionService.java</file>
+            <file>file:/D:/sem5/Project/StudentVoting/src/com/app/voting/VotingApp.java</file>
+            <file>file:/D:/sem5/Project/StudentVoting/src/com/app/voting/model/Candidate.java</file>
+            <file>file:/D:/sem5/Project/StudentVoting/src/com/app/voting/ui/AdminPanel.java</file>
+            <file>file:/D:/sem5/Project/StudentVoting/src/com/app/voting/ui/MainFrame.java</file>
+            <file>file:/D:/sem5/Project/StudentVoting/src/com/app/voting/model/VoterInfo.java</file>
+            <file>file:/D:/sem5/Project/StudentVoting/src/com/app/voting/ui/StudentPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
